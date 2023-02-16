@@ -1,0 +1,51 @@
+h1 {
+    font-size: 50px;
+    line-height: 64px;
+    color: rgb(255, 251, 251);
+}
+
+h3 {
+    font-size: 26px;
+    line-height: 40px;
+    color: #222;
+}
+
+#TT {
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRo5PYTjR60DyjUByBVegq_1d9PCOdHel8Qpw&usqp=CAU");
+}
+
+#KL {
+    background-color: white;
+}
+
+#ML {
+    background-color: black;
+    color: white;
+}
+
+#CL {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgba(40, 95, 77, 0.486);
+}
+
+#BL {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(0, 0, 0);
+}
+
+footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    background-color: rgb(39, 235, 235);
+}
+
+.XL button,
+#email,
+.XL textarea {
+    margin-top: 25px;
+}
